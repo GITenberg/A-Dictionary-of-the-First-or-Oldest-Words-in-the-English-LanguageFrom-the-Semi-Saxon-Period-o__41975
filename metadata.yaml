@@ -1,0 +1,30 @@
+_repo: A-Dictionary-of-the-First-or-Oldest-Words-in-the-English-LanguageFrom-the-Semi-Saxon-Period-o__41975
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41975-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Coleridge, Herbert
+    birthdate: 1830
+    deathdate: 1861
+    gutenberg_agent_id: '41463'
+    url: http://www.gutenberg.org/2009/agents/41463
+description: ''
+gutenberg_issued: '2013-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41975'
+  lccn: '11006238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Middle English, 1100-1500 -- Glossaries, vocabularies,
+  etc.'
+title: 'A Dictionary of the First or Oldest Words in the English Language
+
+  From the Semi-Saxon Period of A.D. 1250 to 1300'
+url: http://www.gutenberg.org/ebooks/41975
