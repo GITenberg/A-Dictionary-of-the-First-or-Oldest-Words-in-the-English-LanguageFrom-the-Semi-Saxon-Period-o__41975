@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41463'
     url: http://www.gutenberg.org/2009/agents/41463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41975#A-Dictionary-of-the-First-or-Oldest-Words-in-the-English-LanguageFrom-the-Semi-Saxon-Period-o_
 gutenberg_issued: '2013-02-02'
 gutenberg_type: Text
 identifiers:
